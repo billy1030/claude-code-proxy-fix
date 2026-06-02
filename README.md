@@ -1,4 +1,4 @@
-# Claude Code VS Code Extension Proxy Fix
+# Claude Code for VS Code Extension Proxy Fix
 
 This directory contains a quick-fix configuration and automation script to resolve the authentication mismatch in **Claude Code for VS Code** when using a local API proxy or gateway (such as MiniMax) configured via **`ccswitch`**.
 
